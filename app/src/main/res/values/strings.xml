@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Aula02</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="alcool">Alcool</string>
+    <string name="resultado">A melhor opção é:</string>
+    <string name="calcular">Calcular</string>
 </resources>

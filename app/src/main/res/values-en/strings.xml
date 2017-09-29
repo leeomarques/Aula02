@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Class 02</string>
+    <string name="gasolina">Gasoline</string>
+    <string name="alcool">Alcohol</string>
+    <string name="resultado">The best option is to: </string>
+    <string name="calcular">Calculate</string>
+</resources>
